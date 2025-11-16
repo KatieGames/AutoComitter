@@ -15,7 +15,7 @@ The GitHub Button uses the Chatgpt API to autonomously write commit titles and s
 
 Install using my website:
 
-Head over to my website at https://alfiedev.co.uk/GithubButtonInstaller.exe here you can download the Inno Installer for the project. This installs the compiled exe into your appData roaming folder and also adds it to startup so the GitHub Button is always running.
+Head over to my website at https://katie.games/GithubButtonInstaller.exe here you can download the Inno Installer for the project. This installs the compiled exe into your appData roaming folder and also adds it to startup so the GitHub Button is always running.
 
 Compile yourself:
 Compiling the GitHub button is extremely easy using the line of code below. This uses pyinstaller to compile the program into an exe
@@ -33,11 +33,11 @@ If wanted you may also compile your own installer as the inno script is containe
 Using the GitHub button is pretty simple.
 First open GitHub desktop with your desired repository selected as is shown in the image below
 
-![Repo Image](https://github.com/AlfieRichards/AutoComitter/blob/main/imagery/Repo%20Selected.png)
+![Repo Image](https://github.com/KatieGames/AutoComitter/blob/main/imagery/Repo%20Selected.png)
 
 Then press the shortcut keybind ("ctrl + alt + c") or the physical github button. This will start the commit process. Once this is pressed it should do the shortcut to view this repository in command prompt, it will then copy the contents of this window to get the path to the repository. If you do not have access to command prompt for whatever reason issues will arise. Once it has done this you will recieve a notification that the ai request has been submitted and it will shortly be filled into the title and description boxes in github desktop.
 
-![Demo Image](https://github.com/AlfieRichards/AutoComitter/blob/main/imagery/Changes%20Shown.png)
+![Demo Image](https://github.com/KatieGames/AutoComitter/blob/main/imagery/Changes%20Shown.png)
 
 Throughout this process I reccomend not touching anything and just letting it do its thing, it shouldnt try and enter text on any windows that arent GitHub desktop however it will stop it from functioning if the wrong window is selected.
 
@@ -80,12 +80,12 @@ https://thepihut.com/products/adafruit-neokey-bff (keyboard switch board)
 The 3D print files are in the repository under "3D print files" Feel free to alter them in any way you want!
 The arduino script for you to flash is also contained in the "3D print files" folder
 
-![image](https://github.com/AlfieRichards/AutoComitter/assets/87566534/84c0743f-d008-4525-8009-1a34f35a6584)
+![image](https://github.com/KatieGames/AutoComitter/assets/87566534/84c0743f-d008-4525-8009-1a34f35a6584)
 
 
 
 ## License
 
 The Github Button © 2023 by KatieGames is licensed under Attribution-NonCommercial 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
-Or check the license file at https://github.com/AlfieRichards/AutoComitter/blob/main/LICENSE
+Or check the license file at https://github.com/KatieGames/AutoComitter/blob/main/LICENSE
 
